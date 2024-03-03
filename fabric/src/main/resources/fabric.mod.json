@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "better_fog",
+  "version": "${version}",
+
+  "name": "Better Fog",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All Rights Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cloud.better_fog.fabric.BetterFogFabric"
+    ]
+  },
+  "mixins": [
+    "better_fog.mixins.json",
+    "better_fog-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "minecraft": ">=1.20.1"
+  }
+}

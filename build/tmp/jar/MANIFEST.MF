@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: betterfog
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: betterfog
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-11-25T00:50:33+0100
+

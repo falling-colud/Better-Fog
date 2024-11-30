@@ -1,0 +1,103 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-25 00:44:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-11-25 16:36:09 +0100",
+      "minecraft:taiga": "2024-11-25 16:36:32 +0100",
+      "minecraft:sunflower_plains": "2024-11-25 16:28:25 +0100",
+      "minecraft:birch_forest": "2024-11-25 00:45:00 +0100",
+      "minecraft:windswept_hills": "2024-11-25 16:05:29 +0100",
+      "minecraft:beach": "2024-11-25 16:20:15 +0100",
+      "minecraft:dark_forest": "2024-11-25 00:45:04 +0100",
+      "minecraft:river": "2024-11-25 16:07:24 +0100",
+      "minecraft:swamp": "2024-11-25 15:48:15 +0100",
+      "minecraft:cold_ocean": "2024-11-25 16:41:31 +0100",
+      "minecraft:forest": "2024-11-25 16:06:26 +0100",
+      "minecraft:lush_caves": "2024-11-30 09:41:36 +0100",
+      "minecraft:windswept_forest": "2024-11-25 16:05:27 +0100",
+      "minecraft:flower_forest": "2024-11-25 16:08:00 +0100",
+      "minecraft:old_growth_birch_forest": "2024-11-25 16:36:01 +0100",
+      "minecraft:meadow": "2024-11-30 15:35:44 +0100",
+      "minecraft:plains": "2024-11-25 16:05:45 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-25 16:00:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-25 16:25:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-30 11:33:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-30 11:33:55 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
